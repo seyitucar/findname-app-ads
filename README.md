@@ -1,1 +1,1 @@
-# findname-app-ads
+# Hesap Yönetimi - 2025
